@@ -7,6 +7,11 @@ public class MiAmigoArtificial {
         JOptionPane.showMessageDialog(null, "¡Hola!, Bienvenido: " + a + "\nSara");
         
         System.out.println("Hello World!");
+<<<<<<< HEAD
         System.out.println("Hello, Sara");
+=======
+        System.out.println("Texto prueba");
+        
+>>>>>>> 50ab06db66f9db462fbb4c300d49f0ebc14cfd83
     }
 }
