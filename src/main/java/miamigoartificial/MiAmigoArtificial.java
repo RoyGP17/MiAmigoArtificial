@@ -7,5 +7,6 @@ public class MiAmigoArtificial {
         JOptionPane.showMessageDialog(null, "¡Hola!, Bienvenido: " + a + "\nSara");
         
         System.out.println("Hello World!");
+        System.out.println("Hola Mamá, ya sé programar en java!!!");
     }
 }
